@@ -1,1 +1,3 @@
 # CostOfTheDiet
+
+Public CoTD releases.
