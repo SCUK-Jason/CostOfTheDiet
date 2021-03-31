@@ -2,6 +2,10 @@
 
 Public CoTD releases.
 
+[Version 2.0.5 - 31/03/2021](https://github.com/SaveTheChildrenUK/CostOfTheDiet/releases/download/v2.0.5/Cost-of-The-Diet-Setup-2.0.5.exe)
+1. Major conversion between MVC and Angular
+2. Back buttons.
+
 [Version 1.2.0 - 16/11/2020](https://github.com/SaveTheChildrenUK/CostOfTheDiet/releases/download/v1.2.0/Cost-of-The-Diet-Setup-1.2.0.exe)
 1. Villages have been re-written to be more responsive.
 2. You can now filter villages on final, draft and default.
