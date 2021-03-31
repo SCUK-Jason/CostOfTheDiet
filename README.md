@@ -3,8 +3,13 @@
 Public CoTD releases.
 
 [Version 2.0.5 - 31/03/2021](https://github.com/SaveTheChildrenUK/CostOfTheDiet/releases/download/v2.0.5/Cost-of-The-Diet-Setup-2.0.5.exe)
-1. Major conversion between MVC and Angular
+1. Major conversion between MVC and Angular. Funcitonal example assessment included.
 2. Back buttons.
+3. You can now set seasons to be active.
+4. Traders now sit within markets.
+5. Diet Surveys are now vieable.
+6. Food Basket is now viewable.
+7. Updated database
 
 [Version 1.2.0 - 16/11/2020](https://github.com/SaveTheChildrenUK/CostOfTheDiet/releases/download/v1.2.0/Cost-of-The-Diet-Setup-1.2.0.exe)
 1. Villages have been re-written to be more responsive.
