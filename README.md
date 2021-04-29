@@ -2,7 +2,7 @@
 
 Public CoTD releases.
 
-[Version 2.0.5 - 31/03/2021](https://github.com/SaveTheChildrenUK/CostOfTheDiet/releases/download/v2.1.6/Cost-of-The-Diet-Setup-2.1.6.exe)
+[Version 2.1.6 - 31/03/2021](https://github.com/SaveTheChildrenUK/CostOfTheDiet/releases/download/v2.1.6/Cost-of-The-Diet-Setup-2.1.6.exe)
 
 Added: You can now print dietary habit interview sheets.
 
