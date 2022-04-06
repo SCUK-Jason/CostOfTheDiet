@@ -6,6 +6,6 @@ Public CoTD releases.
 
 Introducing the first testable version of Cost of The Diet. 
 
-Release notes can be found here: https://github.com/SaveTheChildrenUK/CostOfTheDiet/releases/tag/v2.3.1
+Release notes can be found here: https://github.com/SaveTheChildrenUK/CostOfTheDiet/releases/tag/v2.3.2
 
 2.3.2 Note: We're aware of the performance issue when adding foods to an assessment, this will be fixed in 2.4.
