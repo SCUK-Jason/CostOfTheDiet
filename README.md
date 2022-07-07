@@ -2,10 +2,8 @@
 
 Public CoTD releases.
 
-[Version 2.3.2 - 06/04/2022](https://github.com/SaveTheChildrenUK/CostOfTheDiet/releases/download/v2.3.2/Cost-of-The-Diet-Setup-2.3.2.exe)
+[Version 2.3.10 - 01/07/2022](https://github.com/SaveTheChildrenUK/CostOfTheDiet/releases/download/v2.3.10/Cost-of-The-Diet-Setup-2.3.10.exe)
 
-Introducing the first testable version of Cost of The Diet. 
+Release notes can be found here: https://github.com/SaveTheChildrenUK/CostOfTheDiet/releases/tag/v2.3.10
 
-Release notes can be found here: https://github.com/SaveTheChildrenUK/CostOfTheDiet/releases/tag/v2.3.2
-
-2.3.2 Note: We're aware of the performance issue when adding foods to an assessment, this will be fixed in 2.4.
+Note that if you need to copy or replace the database during testing, it is named CostOfDiet.db3 and you will find it in the folder %appdata%/CostOfTheDiet. 
