@@ -1,4 +1,4 @@
-# CostOfTheDiet
+# Cost Of The Diet
 
 Public CoTD releases.
 
