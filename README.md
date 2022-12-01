@@ -2,9 +2,9 @@
 
 Public CoTD releases.
 
-[Version 2.7.2 - 24/11/2022](https://github.com/SaveTheChildrenUK/CostOfTheDiet/releases/download/v2.7.2/Cost-of-The-Diet-Setup-2.7.2.exe)
+[Version 2.7.3 - 01/12/2022](https://github.com/SaveTheChildrenUK/CostOfTheDiet/releases/download/v2.7.3/Cost-of-The-Diet-Setup-2.7.3.exe)
 
-https://github.com/SaveTheChildrenUK/CostOfTheDiet/releases/tag/v2.7.2
+https://github.com/SaveTheChildrenUK/CostOfTheDiet/releases/tag/v2.7.3
 
 Important Note: 
-There appears to be an intermittent problem with the installer when performing an upgrade. Windows will report that the new version has been installed, but the reality is that it is still running the previous version (as shown in the about page). To prevent this occurring, please uninstall the previous version prior to installing the new one.
+There was a problem with the installer when performing an upgrade. Windows will report that the new version has been installed, but the reality is that it is still running the previous version (as shown in the about page). This may be resolved in this release but if you find the application has not been updated correctly then please uninstall the existing application and then re-install.
