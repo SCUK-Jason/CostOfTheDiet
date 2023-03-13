@@ -2,7 +2,7 @@
 
 Public CoTD releases.
 
-[Version 2.7.14 - 23/02/2023](https://github.com/SaveTheChildrenUK/CostOfTheDiet/releases/download/v2.7.14/Cost-of-The-Diet-Setup-2.7.14.exe)
+[Version 2.7.14 - 13/03/2023](https://github.com/SaveTheChildrenUK/CostOfTheDiet/releases/download/v2.7.14/Cost-of-The-Diet-Setup-2.7.14.exe)
 
 https://github.com/SaveTheChildrenUK/CostOfTheDiet/releases/tag/v2.7.14
 
